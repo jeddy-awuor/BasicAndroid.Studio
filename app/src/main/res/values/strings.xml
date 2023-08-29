@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="title_activity_img">ImgActivity</string>
+    <string name="title_activity_trybackg">trybackg</string>
+    <string name="title_activity_trying">trying</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_custom_list">CustomList</string>
+    <string name="title_activity_recycler_view">RecyclerView</string>
+</resources>
